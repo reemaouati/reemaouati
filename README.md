@@ -4,6 +4,6 @@
 
 <h3 align="center">Reem Aouati</h3>
 
-<p align="center">
-  I turn <b>coffee</b> ☕ into <b>code</b>.
-</p>
+<q align="center">
+Experience is the name everyone gives to their mistakes.
+</q>
