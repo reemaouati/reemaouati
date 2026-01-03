@@ -4,6 +4,10 @@
 
 <h3 align="center">Reem Aouati</h3>
 
-<q align="center">
-Experience is the name everyone gives to their mistakes.
-</q>
+<p align="center">
+think like an interpreter, act like a compiler.
+</p>
+
+[![StandWithPalestine](StandWithPalestine.svg)](https://reemaouati.github.io/reemaouati/palestine.html)
+
+Reach me via [Vetki]()
